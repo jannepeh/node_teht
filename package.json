@@ -14,7 +14,8 @@
     "url": "node_teht"
   },
   "dependencies": {
-    "express": "4.21.1"
+    "express": "4.21.1",
+    "uuid": "^10.0.0"
   },
   "author": "Janne Haarakangas",
   "license": "ISC",
